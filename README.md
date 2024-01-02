@@ -4,7 +4,7 @@ My name is Sean McLeod and I am a Computer Science student in my 2nd year at the
 
 ### 🎯Programming Languages
 ###
- <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+ <a href="https://github.com/search?q=user%3ASean-McLeod+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 <!--
 **Sean-McLeod/Sean-McLeod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
