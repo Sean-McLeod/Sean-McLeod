@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sean McLeod and I am a Computer Science student in my 2nd year at the University of Toronto.
+My name is Sean McLeod and I am a Computer Science student in my 2nd year at the University of Toronto.  
 
 
 
