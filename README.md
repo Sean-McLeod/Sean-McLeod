@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Sean McLeod and I am a Computer Science student in my 2nd year at the University of Toronto.
-
+___
 hey
 <!--
 **Sean-McLeod/Sean-McLeod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
