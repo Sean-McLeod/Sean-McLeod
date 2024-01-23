@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<P>My name is Sean McLeod and I am a Computer Science student in my 2nd year at the University of Toronto.</P>
+<P>My name is Sean McLeod and I am a 2nd year Computer Science student at the University of Toronto.</P>
 
 <h2>🎯Programming Languages</h2>
 <p>
